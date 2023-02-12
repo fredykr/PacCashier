@@ -28,22 +28,22 @@ D. Program Description
 E. Usage
 1. Create transaction. Example: 
     transaction1 = Transaction()
-2. Add item
+2. Add item. Example: 
     transaction1.add_item(Item("mobil",1,1000))
-3. Update item to new name
+3. Update item to new name. Example: 
     transaction1.update_item_name("mobil","truk")
-4. Update item quantity
+4. Update item quantity. Example: 
     transaction1.update_item_quantity("truk",2)
-5. Update item price
+5. Update item price. Example: 
     transaction1.update_item_price("truk","2000")
-6. Delete item
+6. Delete item. Example: 
     transaction1.delete_item("truk")
-7. Reset transaction
+7. Reset transaction. Example: 
     transaction1.reset_transaction()
-8. View transaction
+8. View transaction. Example: 
     transaction1.check_order()
-9. Show grand total
+9. Show grand total. Example: 
     transaction1.total_price()
 
 F. Next Release
-    Convert main.ipynb to main.py OR cashier.py
+Convert main.ipynb to main.py OR cashier.py
