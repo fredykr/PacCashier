@@ -1,5 +1,5 @@
 # PacCashier
-Project Python: Simple Cashier Invoice Program
+Python Project Pacmann - Super Cashier
 
 A. Background
 Simple Cashier Invoice Program is a program to store purchased item into invoice or transaction. User can add, remove, update, view, reset as well as show grand total of item purchased.
@@ -46,4 +46,4 @@ E. Usage
     transaction1.total_price()
 
 F. Next Release
-Convert main.ipynb to main.py OR cashier.py
+1. Convert main.ipynb to main.py OR cashier.py
